@@ -1,0 +1,16 @@
+header .header-content .header-content-inner p {
+     margin-bottom: 20px;     
+}
+
+header .header-content .header-content-inner .btn {
+	background-color:#948989;
+	color:#FFFFFF;
+	opacity: .6;
+}
+
+header .header-content .header-content-inner .btn:hover {
+	background-color:#383b3c; 
+	color:#FFFFFF;
+	opacity: .9;
+
+}
