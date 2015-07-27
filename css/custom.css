@@ -14,3 +14,7 @@ header .header-content .header-content-inner .btn:hover {
 	opacity: .7;
 
 }
+
+section {
+	min-height: 100%;
+}
