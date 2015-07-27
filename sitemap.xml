@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://www.redbabel.com/</loc>
     <lastmod>2015-07-20T17:01:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://www.redbabel.com/about/</loc>
     <lastmod>2015-07-20T17:01:15+02:00</lastmod>
   </url>
   
